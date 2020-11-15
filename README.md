@@ -15,7 +15,7 @@ Data Web                   : <a href=></a>
 [Overview](#overview) -
 [Business Goals](#business-goals) -
 [Motivation and Background](#motivation-and-background) -
-[Data](#data) -
+[Data](#data) - https://www.kaggle.com/aishu2218/shill-bidding-dataset
 [Contributor](#contributor)
 [Software Requirements - Packages used](#software-requirements--packages-used) -
 [Reference and contribution](#reference-and-contribution)
@@ -54,7 +54,7 @@ https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset
 
 ##  Contributor
 <pre>
-Contributer  : <a href=>Debanjan Chowdhury</a>
+Contributer  : <a href=https://github.com/Debanjan-C>Debanjan Chowdhury</a>
 </pre>
 
 ##  Software Requirements - Packages used
@@ -70,5 +70,6 @@ Last Updated : November 2020
 
 ## Reference and contribution
 <pre>
-
+https://www.kaggle.com/aishu2218/shill-bidding-dataset
+https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset
 </pre>
