@@ -1,14 +1,11 @@
 # Bidding_Clustering
 
-# German Credit Risk Classification: Are you at Risk?
-
 ## Repository Navigation
 <pre>
 Technical Notebook         : <a href=></a>
 Code                       : <a href=></a>
 Data                       : <a href=></a>
-Data Web                   : <a href=https://www.kaggle.com/aishu2218/shill-bidding-dataset></a>
-</pre>
+Data Web                   : <a href=https://www.kaggle.com/kabure/german-credit-data-with-risk>Data Web</a>
 
 ## Table of Contents
 [Repository Navigation](#repository-navigation) -
