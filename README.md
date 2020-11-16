@@ -13,7 +13,7 @@ Data Web                   : <a href=https://www.kaggle.com/aishu2218/shill-bidd
 [Overview](#overview) -
 [Business Goals](#business-goals) -
 [Motivation and Background](#motivation-and-background) -
-[Data](#data) - https://www.kaggle.com/aishu2218/shill-bidding-dataset
+[Data](#data) 
 [Contributor](#contributor)
 [Software Requirements - Packages used](#software-requirements--packages-used) -
 [Reference and contribution](#reference-and-contribution)
