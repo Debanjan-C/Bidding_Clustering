@@ -1,4 +1,4 @@
-# Bidding_Clustering
+# Bidding Cluster Project
 
 ## Repository Navigation
 <pre>
