@@ -2,7 +2,7 @@
 
 ## Repository Navigation
 <pre>
-Technical Notebook         : <a href=></a>
+Technical Notebook         : <a href=https://github.com/Debanjan-C/Bidding_Clustering/blob/main/Notebooks/Technical%20Notebook.ipynb></a>
 Code                       : <a href=></a>
 Data                       : <a href=></a>
 Data Web                   : <a href=https://www.kaggle.com/aishu2218/shill-bidding-dataset>Data Web</a>
